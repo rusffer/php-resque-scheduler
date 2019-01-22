@@ -15,9 +15,9 @@
 		}
 	},
 	"repositories": [
-		{ "type": "git", "url": "https://github.com/chrisboulton/php-resque" }
+		{ "type": "git", "url": "https://github.com/rusffer/php-resque" }
 	],
 	"require": {
-		"chrisboulton/php-resque": "dev-master"
+		"rusffer/php-resque": "dev-master"
 	}
 }
